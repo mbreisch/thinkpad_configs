@@ -1,0 +1,23 @@
+# A better XRandR GUI 
+arandr
+# CPU Frequency Controller and Indicator
+libcpufreq0 
+indicator-cpufreq
+# Power Mobile Battery Conserving Power Tools
+# Remember to add the repository ppa:linrunner/tlp
+powertop
+acpi-call
+tlp 
+tlp-rdw 
+smartmontools 
+ethtool
+# Health Display Temperature 
+redshift 
+redshift-gtk
+# Clipboard Utility
+xclip
+# Git
+git
+curl
+gufw
+xfce4-pulseaudio-plugin
