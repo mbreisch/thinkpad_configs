@@ -28,3 +28,6 @@ unrar
 gimp
 xfce4-sensors-plugin
 x-tile
+postgresql
+postgresql-contrib
+inotify-tools
