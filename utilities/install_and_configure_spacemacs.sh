@@ -12,4 +12,7 @@ ln -sfr ../dotfiles/spacemacs/spacemacs ~/.spacemacs
 
 echo "Installing sourcecode pro fonts"
 git clone --depth 1 --branch release https://github.com/adobe-fonts/source-code-pro.git ~/.local/share/fonts/adobe-fonts/source-code-pro
+echo "Installing all-the-icons fonts"
+git clone https://github.com/domtronn/all-the-icons.el /tmp/all-the-icons
+mv /tmp/all-the-icons/fonts ~/.local/share/fonts/all-the-icons
 fc-cache -f -v 
