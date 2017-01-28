@@ -22,8 +22,6 @@ curl
 gufw
 xfce4-pulseaudio-plugin
 numix-icon-theme-circle
-cairo-dock
-cairo-dock-plug-ins
 unrar
 gimp
 xfce4-sensors-plugin
@@ -32,3 +30,6 @@ postgresql
 postgresql-contrib
 inotify-tools
 pgadmin3
+# If issues with Brother DCP-7065DN Scanning Install libusb-0.1.4
+# See http://support.brother.com/g/s/id/linux/en/faq_scn.html?c=us&lang=en&prod=dcp7065dn_all&redirect=on#f00107 for details
+libusb-0.1-4
